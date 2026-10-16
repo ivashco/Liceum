@@ -12,4 +12,3 @@ match number:
         print("к сердцу прижмёт")
     case 0:
         print("ой!")
-

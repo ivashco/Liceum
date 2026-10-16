@@ -11,4 +11,3 @@ if min(wedth, heigth) >= rib_min and max(wedth, heigth) >= rib_avg:
     print(True)
 else:
     print(False)
-

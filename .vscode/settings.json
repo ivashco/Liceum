@@ -1,6 +1,17 @@
 {
+  // Выбираем Pylance как основной языковой сервер
+  "python.languageServer": "Pylance",
+  // Включаем встроенную проверку типов в Pylance
+  "python.analysis.typeCheckingMode": "basic",
+  // Указываем Ruff в качестве основного форматировщика кода
   "[python]": {
     "editor.defaultFormatter": "charliermarsh.ruff",
-    "editor.formatOnSave": true
-  }
+    "editor.formatOnSave": true, // Форматировать код при каждом сохранении
+    "editor.codeActionsOnSave": {
+      "source.fixAll.ruff": "explicit", // Автоматически исправлять ошибки линтера при сохранении
+      "source.organizeImports.ruff": "explicit" // Автоматически сортировать импорты (замена isort)
+    }
+  },
+  // Отключаем встроенное форматирование Pylance, чтобы оно не конфликтовало с Ruff
+  "python.analysis.formatOnSave": false
 }

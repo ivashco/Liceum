@@ -1,5 +1,4 @@
-"""hhkgjhlkh;'
-"""
+"""hhkgjhlkh;'"""
 
 password = input()
 email = input()
