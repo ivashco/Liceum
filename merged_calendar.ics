@@ -1,0 +1,854 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Alice AI Calendar Merger//RU
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+SUMMARY:Лек Технология разработки программ
+ ного обеспечения 3381
+DTSTART:20261005T171000
+DTEND:20261005T184000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лб Технология разработки программн
+ ого обеспечения 3381
+DTSTART:20261005T185000
+DTEND:20261005T202000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лб Объектно-ориентированное програ
+ ммирование 3414
+DTSTART:20261006T135000
+DTEND:20261006T152000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лб Объектно-ориентированное програ
+ ммирование 3414
+DTSTART:20261006T153000
+DTEND:20261006T170000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:01 Лб Численные методы и пакеты симво
+ льной математики 3521
+DTSTART:20261008T171000
+DTEND:20261008T184000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:01 Лб Численные методы и пакеты симво
+ льной математики 3521
+DTSTART:20261008T185000
+DTEND:20261008T202000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лек Объектно-ориентированное прогр
+ аммирование 3402
+DTSTART:20261009T135000
+DTEND:20261009T152000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лек Объектно-ориентированное прогр
+ аммирование 3402
+DTSTART:20261009T153000
+DTEND:20261009T170000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лек Технология разработки программ
+ ного обеспечения 3381
+DTSTART:20261012T171000
+DTEND:20261012T184000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лб Технология разработки программн
+ ого обеспечения 3381
+DTSTART:20261012T185000
+DTEND:20261012T202000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:02 Лб Численные методы и пакеты симво
+ льной математики 3521
+DTSTART:20261015T171000
+DTEND:20261015T184000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:02 Лб Численные методы и пакеты симво
+ льной математики 3521
+DTSTART:20261015T185000
+DTEND:20261015T202000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лек Компьютерное моделирование 3352
+DTSTART:20261019T135000
+DTEND:20261019T152000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лек Компьютерное моделирование 3352
+DTSTART:20261019T153000
+DTEND:20261019T170000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:01 Лб Численные методы и пакеты симво
+ льной математики 3521
+DTSTART:20261022T171000
+DTEND:20261022T184000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:01 Лб Численные методы и пакеты симво
+ льной математики 3521
+DTSTART:20261022T185000
+DTEND:20261022T202000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лек Технология разработки программ
+ ного обеспечения 3381
+DTSTART:20261023T171000
+DTEND:20261023T184000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лб Технология разработки программн
+ ого обеспечения 3381
+DTSTART:20261023T185000
+DTEND:20261023T202000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лб Компьютерное моделирование 3352
+DTSTART:20261026T135000
+DTEND:20261026T152000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лб Компьютерное моделирование 3352
+DTSTART:20261026T153000
+DTEND:20261026T170000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:02 Лб Численные методы и пакеты симво
+ льной математики 3521
+DTSTART:20261029T171000
+DTEND:20261029T184000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:02 Лб Численные методы и пакеты симво
+ льной математики 3521
+DTSTART:20261029T185000
+DTEND:20261029T202000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лек Технология разработки программ
+ ного обеспечения 3381
+DTSTART:20261030T171000
+DTEND:20261030T184000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лб Технология разработки программн
+ ого обеспечения 3381
+DTSTART:20261030T185000
+DTEND:20261030T202000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лб Компьютерное моделирование 3352
+DTSTART:20261102T171000
+DTEND:20261102T184000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лек Технология разработки программ
+ ного обеспечения 3452
+DTSTART:20261103T135000
+DTEND:20261103T152000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лек Технология разработки программ
+ ного обеспечения 3452
+DTSTART:20261103T153000
+DTEND:20261103T170000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лб Объектно-ориентированное програ
+ ммирование 3414
+DTSTART:20261201T135000
+DTEND:20261201T152000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лб Объектно-ориентированное програ
+ ммирование 3414
+DTSTART:20261201T153000
+DTEND:20261201T170000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:01 Лб Объектно-ориентированное прогр
+ аммирование 3412
+DTSTART:20261204T101000
+DTEND:20261204T114000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:01 Лб Объектно-ориентированное прогр
+ аммирование 3412
+DTSTART:20261204T121000
+DTEND:20261204T134000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:02 Лб Объектно-ориентированное прогр
+ аммирование 3412
+DTSTART:20261204T135000
+DTEND:20261204T152000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:02 Лб Объектно-ориентированное прогр
+ аммирование 3412
+DTSTART:20261204T153000
+DTEND:20261204T170000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лб Технология разработки программн
+ ого обеспечения 3381
+DTSTART:20261207T171000
+DTEND:20261207T184000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лб Технология разработки программн
+ ого обеспечения 3381
+DTSTART:20261207T185000
+DTEND:20261207T202000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лб Объектно-ориентированное програ
+ ммирование 3414
+DTSTART:20261208T135000
+DTEND:20261208T152000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лб Объектно-ориентированное програ
+ ммирование 3414
+DTSTART:20261208T153000
+DTEND:20261208T170000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:02 Лб Объектно-ориентированное прогр
+ аммирование 3412
+DTSTART:20261210T135000
+DTEND:20261210T152000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:02 Лб Объектно-ориентированное прогр
+ аммирование 3412
+DTSTART:20261210T153000
+DTEND:20261210T170000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:01 Лб Объектно-ориентированное прогр
+ аммирование 3412
+DTSTART:20261211T135000
+DTEND:20261211T152000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:01 Лб Объектно-ориентированное прогр
+ аммирование 3412
+DTSTART:20261211T153000
+DTEND:20261211T170000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лб Технология разработки программн
+ ого обеспечения 3381
+DTSTART:20261214T171000
+DTEND:20261214T184000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лб Технология разработки программн
+ ого обеспечения 3381
+DTSTART:20261214T185000
+DTEND:20261214T202000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лб Объектно-ориентированное програ
+ ммирование 3414
+DTSTART:20261215T135000
+DTEND:20261215T152000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лб Объектно-ориентированное програ
+ ммирование 3414
+DTSTART:20261215T153000
+DTEND:20261215T170000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:02 Лб Объектно-ориентированное прогр
+ аммирование 3412
+DTSTART:20261217T135000
+DTEND:20261217T152000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:02 Лб Объектно-ориентированное прогр
+ аммирование 3412
+DTSTART:20261217T153000
+DTEND:20261217T170000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:01 Лб Объектно-ориентированное прогр
+ аммирование 3412
+DTSTART:20261218T135000
+DTEND:20261218T152000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:01 Лб Объектно-ориентированное прогр
+ аммирование 3412
+DTSTART:20261218T153000
+DTEND:20261218T170000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лб Объектно-ориентированное програ
+ ммирование 3414
+DTSTART:20261222T135000
+DTEND:20261222T152000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лб Объектно-ориентированное програ
+ ммирование 3414
+DTSTART:20261222T153000
+DTEND:20261222T170000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:02 Лб Объектно-ориентированное прогр
+ аммирование 3412
+DTSTART:20261224T135000
+DTEND:20261224T152000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:02 Лб Объектно-ориентированное прогр
+ аммирование 3412
+DTSTART:20261224T153000
+DTEND:20261224T170000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:01 Лб Объектно-ориентированное прогр
+ аммирование 3412
+DTSTART:20261225T135000
+DTEND:20261225T152000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:01 Лб Объектно-ориентированное прогр
+ аммирование 3412
+DTSTART:20261225T153000
+DTEND:20261225T170000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:01 Лб Объектно-ориентированное прогр
+ аммирование 3412
+DTSTART:20261228T121000
+DTEND:20261228T134000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:02 Лб Объектно-ориентированное прогр
+ аммирование 3412
+DTSTART:20261228T135000
+DTEND:20261228T152000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лб Объектно-ориентированное програ
+ ммирование 3414
+DTSTART:20261228T153000
+DTEND:20261228T170000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:КпЭ Объектно-ориентированное прогр
+ аммирование 3412
+DTSTART:20270111T153000
+DTEND:20270111T170000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Эк Объектно-ориентированное програ
+ ммирование 3412
+DTSTART:20270112T135000
+DTEND:20270112T152000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Эк Объектно-ориентированное програ
+ ммирование 3414
+DTSTART:20270112T153000
+DTEND:20270112T170000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:КпЭ Численные методы и пакеты симво
+ льной математики 3521
+DTSTART:20270114T171000
+DTEND:20270114T184000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:КпЭ Технология разработки программ
+ ного обеспечения 3381
+DTSTART:20270114T185000
+DTEND:20270114T202000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Эк Численные методы и пакеты символ
+ ьной математики 3521
+DTSTART:20270115T171000
+DTEND:20270115T184000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Эк Технология разработки программн
+ ого обеспечения 3381
+DTSTART:20270115T185000
+DTEND:20270115T202000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лек Технология разработки программ
+ ного обеспечения 3381
+DTSTART:20260928T171000
+DTEND:20260928T184000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лб Технология разработки программн
+ ого обеспечения 3381
+DTSTART:20260928T185000
+DTEND:20260928T202000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лек Объектно-ориентированное прогр
+ аммирование 3402
+DTSTART:20260929T135000
+DTEND:20260929T152000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лек Объектно-ориентированное прогр
+ аммирование 3402
+DTSTART:20260929T153000
+DTEND:20260929T170000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лек Численные методы и пакеты симво
+ льной математики 3521
+DTSTART:20261001T171000
+DTEND:20261001T184000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:01 Лб Объектно-ориентированное прогр
+ аммирование 3412
+DTSTART:20261002T101000
+DTEND:20261002T114000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:01 Лб Объектно-ориентированное прогр
+ аммирование 3412
+DTSTART:20261002T121000
+DTEND:20261002T134000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:02 Лб Объектно-ориентированное прогр
+ аммирование 3412
+DTSTART:20261002T135000
+DTEND:20261002T152000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:02 Лб Объектно-ориентированное прогр
+ аммирование 3412
+DTSTART:20261002T153000
+DTEND:20261002T170000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:01 Лб Численные методы и пакеты симво
+ льной математики 3521
+DTSTART:20261105T171000
+DTEND:20261105T184000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:01 Лб Численные методы и пакеты симво
+ льной математики 3521
+DTSTART:20261105T185000
+DTEND:20261105T202000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лб Объектно-ориентированное програ
+ ммирование 3414
+DTSTART:20261106T135000
+DTEND:20261106T152000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лб Объектно-ориентированное програ
+ ммирование 3414
+DTSTART:20261106T153000
+DTEND:20261106T170000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лек Технология разработки программ
+ ного обеспечения 3381
+DTSTART:20261106T171000
+DTEND:20261106T184000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лб Технология разработки программн
+ ого обеспечения 3381
+DTSTART:20261106T185000
+DTEND:20261106T202000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лек Технология разработки программ
+ ного обеспечения 3381
+DTSTART:20261109T171000
+DTEND:20261109T184000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лб Технология разработки программн
+ ого обеспечения 3381
+DTSTART:20261109T185000
+DTEND:20261109T202000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лб Технология разработки программн
+ ого обеспечения 3452
+DTSTART:20261110T135000
+DTEND:20261110T152000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лб Технология разработки программн
+ ого обеспечения 3452
+DTSTART:20261110T153000
+DTEND:20261110T170000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:02 Лб Численные методы и пакеты симво
+ льной математики 3521
+DTSTART:20261112T171000
+DTEND:20261112T184000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:02 Лб Численные методы и пакеты симво
+ льной математики 3521
+DTSTART:20261112T185000
+DTEND:20261112T202000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:01 Лб Объектно-ориентированное прогр
+ аммирование 3412
+DTSTART:20261113T101000
+DTEND:20261113T114000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:01 Лб Объектно-ориентированное прогр
+ аммирование 3412
+DTSTART:20261113T121000
+DTEND:20261113T134000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:02 Лб Объектно-ориентированное прогр
+ аммирование 3412
+DTSTART:20261113T135000
+DTEND:20261113T152000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:02 Лб Объектно-ориентированное прогр
+ аммирование 3412
+DTSTART:20261113T153000
+DTEND:20261113T170000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лек Технология разработки программ
+ ного обеспечения 3381
+DTSTART:20261116T171000
+DTEND:20261116T184000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лб Технология разработки программн
+ ого обеспечения 3381
+DTSTART:20261116T185000
+DTEND:20261116T202000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лб Технология разработки программн
+ ого обеспечения 3452
+DTSTART:20261117T135000
+DTEND:20261117T152000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лб Технология разработки программн
+ ого обеспечения 3452
+DTSTART:20261117T153000
+DTEND:20261117T170000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:01 Лб Численные методы и пакеты симво
+ льной математики 3521
+DTSTART:20261119T171000
+DTEND:20261119T184000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:02 Лб Численные методы и пакеты симво
+ льной математики 3521
+DTSTART:20261119T185000
+DTEND:20261119T202000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лек Объектно-ориентированное прогр
+ аммирование 3402
+DTSTART:20261120T135000
+DTEND:20261120T152000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лек Объектно-ориентированное прогр
+ аммирование 3402
+DTSTART:20261120T153000
+DTEND:20261120T170000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лб Объектно-ориентированное програ
+ ммирование 3414
+DTSTART:20261124T135000
+DTEND:20261124T152000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лб Объектно-ориентированное програ
+ ммирование 3414
+DTSTART:20261124T153000
+DTEND:20261124T170000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:01 Лб Объектно-ориентированное прогр
+ аммирование 3412
+DTSTART:20261127T101000
+DTEND:20261127T114000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:01 Лб Объектно-ориентированное прогр
+ аммирование 3412
+DTSTART:20261127T121000
+DTEND:20261127T134000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:02 Лб Объектно-ориентированное прогр
+ аммирование 3412
+DTSTART:20261127T135000
+DTEND:20261127T152000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:02 Лб Объектно-ориентированное прогр
+ аммирование 3412
+DTSTART:20261127T153000
+DTEND:20261127T170000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лек Численные методы и пакеты симво
+ льной математики 3521
+DTSTART:20260911T171000
+DTEND:20260911T184000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лек Численные методы и пакеты симво
+ льной математики 3521
+DTSTART:20260911T185000
+DTEND:20260911T202000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лек Технология разработки программ
+ ного обеспечения 3381
+DTSTART:20260914T171000
+DTEND:20260914T184000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лек Технология разработки программ
+ ного обеспечения 3381
+DTSTART:20260914T185000
+DTEND:20260914T202000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лек Объектно-ориентированное прогр
+ аммирование 3402
+DTSTART:20260915T135000
+DTEND:20260915T152000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лек Объектно-ориентированное прогр
+ аммирование 3402
+DTSTART:20260915T153000
+DTEND:20260915T170000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:01 Лб Численные методы и пакеты симво
+ льной математики 3521
+DTSTART:20260917T171000
+DTEND:20260917T184000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:01 Лб Численные методы и пакеты симво
+ льной математики 3521
+DTSTART:20260917T185000
+DTEND:20260917T202000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лб Технология разработки программн
+ ого обеспечения 3381
+DTSTART:20260921T171000
+DTEND:20260921T184000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лб Технология разработки программн
+ ого обеспечения 3381
+DTSTART:20260921T185000
+DTEND:20260921T202000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:01 Лб Объектно-ориентированное прогр
+ аммирование 3412
+DTSTART:20260922T101000
+DTEND:20260922T114000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:01 Лб Объектно-ориентированное прогр
+ аммирование 3412
+DTSTART:20260922T121000
+DTEND:20260922T134000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:02 Лб Объектно-ориентированное прогр
+ аммирование 3412
+DTSTART:20260922T135000
+DTEND:20260922T152000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:02 Лб Объектно-ориентированное прогр
+ аммирование 3412
+DTSTART:20260922T153000
+DTEND:20260922T170000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:02 Лб Численные методы и пакеты симво
+ льной математики 3521
+DTSTART:20260924T171000
+DTEND:20260924T184000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:02 Лб Численные методы и пакеты симво
+ льной математики 3521
+DTSTART:20260924T185000
+DTEND:20260924T202000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лб Объектно-ориентированное програ
+ ммирование 3414
+DTSTART:20260925T135000
+DTEND:20260925T152000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Лб Объектно-ориентированное програ
+ ммирование 3414
+DTSTART:20260925T153000
+DTEND:20260925T170000
+LOCATION:Дистанционная-в.з.
+END:VEVENT
+END:VCALENDAR

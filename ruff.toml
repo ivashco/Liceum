@@ -1,0 +1,10 @@
+[lint]
+select = ["E", "W", "F"]
+ignore = []
+
+[lint.pycodestyle]
+max-line-length = 79
+
+[format]
+quote-style = "double"
+line-ending = "lf"

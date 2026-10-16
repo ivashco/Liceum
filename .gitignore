@@ -1,0 +1,52 @@
+
+
+# Виртуальные окружения (не коммитим .venv ни с Surface, ни с Dell)
+.venv/
+venv/
+env/
+
+# Кэш и временные файлы Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Инструменты тестирования и линтинга (кэши)
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# IDE и редакторы
+.idea/
+
+*.swp
+*.swo
+*~
+
+# Локальные конфиги и секреты (если появятся)
+.env
+.env.local
+.DS_Store
+Thumbs.db
+.log
+
+# Данные, которые не должны быть в репозитории (если они только локальные)
+# Раскомментируй, если нужно:
+# data/
+# output/
