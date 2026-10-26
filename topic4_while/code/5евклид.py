@@ -1,8 +1,6 @@
-a = int(input())
-b = int(input())
-mn = min(a, b)
-mx = max(a, b)
-while mn != mx:
-    mx = mx - mn
-    mn, mx = min(mx, mn), max(mx, mn)
-print(mn)
+t = int(input())
+max_t = t
+while t < 6000:
+    max_t = max(t, max_t)
+    t = int(input())
+print(max_t)

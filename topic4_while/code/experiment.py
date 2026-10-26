@@ -1,7 +1,8 @@
-age = int(input())
-if age >= 3000:
-    print("О, великий древний!")
-elif age >= 100:
-    print("Добро пожаловать в музей COBOL.")
-else:
-    print("Юнец, иди учить PEP8!"
+a = int(input())
+b = int(input())
+max_n = max(a, b)
+min_n = min(a, b)
+while min_n != max_n:
+    res = max_n - min_n
+    min_n, max_n = min(min_n, res), max(max_n, res)
+print(min_n)

@@ -1,0 +1,16 @@
+n = input()
+while n != '17':
+    sum = 0
+    for i in n:
+        if int(i) % 2 != 0:
+            sum += int(i)
+    if sum == 0:
+        print("Ну, я так не играю!")
+        break
+    else:
+        print(sum)
+    n = input()
+else:
+    print("Какие замечательные числа!")
+
+
